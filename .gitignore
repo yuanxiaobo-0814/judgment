@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# 编辑器 / IDE
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+
+# 临时与备份
+*.tmp
+*.bak
+*.orig
